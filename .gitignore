@@ -1,13 +1,18 @@
 templates_c/
+
 log2/
+log/
+
 documentsdg/bkups/
 documents/bkups/
 documents/vcsignore/
+documents/*.bat
+
 nbproject/
-log/
+/nbproject/private/
+
 .svn/
 
-documents/*.bat
 
 #conf.ini
 config.dbc
