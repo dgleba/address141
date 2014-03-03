@@ -1,5 +1,6 @@
-ver.16 
+ver.17 
 
+17 - 2014-03-03_Mon_08.13-AM remove g2module. install the latest one yourself.
 16 - 2014-03-03_Mon_08.06-AM minor
 15 - 2014-03-02 10:59PM updated version
 14 - 2014-02-27_Thu_21.23-PM ..

@@ -1,6 +1,6 @@
 **Address141 app Readme.md**
 ---
-2014-02-27 Rev.3
+2014-03-03 Rev.4
 
 ---
 
@@ -18,7 +18,7 @@ Refer to the g2responsive module readme for more information on that module.
 
 ---
 
-1. Copy the app to your apache document root
+1. Copy addres141 to your apache document root
 
 2. Create the config.dbc file per the example supplied and place your database credentials in that file.
 
@@ -28,12 +28,12 @@ Refer to the g2responsive module readme for more information on that module.
 
 4. Navigate to the app with your browser.
 
-5. You may have to comment out the following line in the conf.ini to get the app started.
+5. You may have to comment out the following line in the conf.ini to get the app started. Try this if you see a blank white screen.
 
   ```
     dashboard="Dashboard"
   ```
-6. Then uncomment it when the app is running.
+6. Then uncomment it when address141 is running.
 
 7. Connect to your app .. Sometimes you may have to refresh the page twice (waiting for it to fully load each time.)
 8. When the app is viewed on a screen less than 800 px wide the layout adjusts to fit itself to smaller screens. You can try that behaviour out on a desktop computer by making the browser window narrower.
