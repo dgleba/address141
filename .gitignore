@@ -9,6 +9,7 @@ documentsdg/bkups/
 documents/bkups/
 documents/vcsignore/
 documents/*.bat
+documents2/
 
 nbproject/
 /nbproject/private/
