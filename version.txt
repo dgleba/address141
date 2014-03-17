@@ -1,5 +1,9 @@
-ver.18
+19
 
+
+version
+
+19 - 2014-03-17 12:09 PM  This is no longer updated. see g2responsive-module repo. It has the module contained in a sample app.
 18 - 2014-03-03_Mon_08.30-AM minor
 17 - 2014-03-03_Mon_08.13-AM remove g2module. install the latest one yourself.
 16 - 2014-03-03_Mon_08.06-AM minor
